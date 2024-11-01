@@ -1,0 +1,65 @@
+{
+    "configs": {
+      "open-webui": {
+        "subdirectories": ["custom-configs"]
+      },
+      "ollama": {
+        "subdirectories": []
+      },
+      "pipelines": {
+        "subdirectories": []
+      },
+      "comfyui": {
+        "subdirectories": []
+      },
+      "common": {}
+    },
+    "prompts": {
+      "templates": {
+        "subdirectories": ["custom-templates"]
+      }
+    },
+    "extensions": {
+      "open-webui-extensions": {
+        "subdirectories": ["extension1", "extension2"]
+      },
+      "ollama-extensions": {
+        "subdirectories": ["extension1", "extension2"]
+      },
+      "pipelines-extensions": {
+        "subdirectories": ["extension1"]
+      },
+      "comfyui-extensions": {
+        "subdirectories": ["extension1"]
+      }
+    },
+    "documents": {
+      "input": {
+        "subdirectories": []
+      },
+      "output": {
+        "subdirectories": ["processed-documents"]
+      },
+      "embeddings": {
+        "subdirectories": ["faiss", "pinecone"]
+      }
+    },
+    "scripts": {
+      "subdirectories": []
+    },
+    "logs": {
+      "open-webui": {
+        "subdirectories": []
+      },
+      "ollama": {
+        "subdirectories": []
+      },
+      "pipelines": {
+        "subdirectories": []
+      },
+      "comfyui": {
+        "subdirectories": []
+      }
+    }
+  }
+  

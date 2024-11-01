@@ -1,0 +1,56 @@
+2024-11-01 12:00:42 - Created directory: src/configs
+2024-11-01 12:00:42 - Created directory: src/configs/comfyui
+2024-11-01 12:00:42 - Created directory: src/configs/common
+2024-11-01 12:00:42 - Created directory: src/configs/ollama
+2024-11-01 12:00:42 - Created directory: src/configs/open-webui
+2024-11-01 12:00:43 - Created directory: src/configs/open-webui/custom-configs
+2024-11-01 12:00:43 - Created directory: src/configs/pipelines
+2024-11-01 12:00:43 - Created directory: src/documents
+2024-11-01 12:00:43 - Created directory: src/documents/embeddings
+2024-11-01 12:00:43 - Created directory: src/documents/embeddings/faiss
+2024-11-01 12:00:43 - Created directory: src/documents/embeddings/pinecone
+2024-11-01 12:00:43 - Created directory: src/documents/input
+2024-11-01 12:00:43 - Created directory: src/documents/output
+2024-11-01 12:00:43 - Created directory: src/documents/output/processed-documents
+2024-11-01 12:00:43 - Created directory: src/extensions
+2024-11-01 12:00:43 - Created directory: src/extensions/comfyui-extensions
+2024-11-01 12:00:43 - Created directory: src/extensions/comfyui-extensions/extension1
+2024-11-01 12:00:43 - Created directory: src/extensions/ollama-extensions
+2024-11-01 12:00:43 - Created directory: src/extensions/ollama-extensions/extension1
+2024-11-01 12:00:43 - Created directory: src/extensions/ollama-extensions/extension2
+2024-11-01 12:00:43 - Created directory: src/extensions/open-webui-extensions
+2024-11-01 12:00:43 - Created directory: src/extensions/open-webui-extensions/extension1
+2024-11-01 12:00:44 - Created directory: src/extensions/open-webui-extensions/extension2
+2024-11-01 12:00:44 - Created directory: src/extensions/pipelines-extensions
+2024-11-01 12:00:44 - Created directory: src/extensions/pipelines-extensions/extension1
+2024-11-01 12:00:44 - Created directory: src/logs
+2024-11-01 12:00:44 - Created directory: src/logs/comfyui
+2024-11-01 12:00:44 - Created directory: src/logs/ollama
+2024-11-01 12:00:44 - Created directory: src/logs/open-webui
+2024-11-01 12:00:44 - Created directory: src/logs/pipelines
+2024-11-01 12:00:44 - Created directory: src/prompts
+2024-11-01 12:00:44 - Created directory: src/prompts/templates
+2024-11-01 12:00:44 - Created directory: src/prompts/templates/custom-templates
+2024-11-01 12:00:44 - Created directory: src/scripts
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/configs/comfyui
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/configs/common
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/configs/ollama
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/configs/open-webui/custom-configs
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/configs/pipelines
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/documents/embeddings/faiss
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/documents/embeddings/pinecone
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/documents/input
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/documents/output/processed-documents
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/extensions/comfyui-extensions/extension1
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/extensions/ollama-extensions/extension1
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/extensions/ollama-extensions/extension2
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/extensions/open-webui-extensions/extension1
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/extensions/open-webui-extensions/extension2
+2024-11-01 12:00:45 - Created README.md in leaf directory: src/extensions/pipelines-extensions/extension1
+2024-11-01 12:00:46 - Created README.md in leaf directory: src/logs/comfyui
+2024-11-01 12:00:46 - Created README.md in leaf directory: src/logs/ollama
+2024-11-01 12:00:46 - Created README.md in leaf directory: src/logs/open-webui
+2024-11-01 12:00:46 - Created README.md in leaf directory: src/logs/pipelines
+2024-11-01 12:00:46 - Created README.md in leaf directory: src/prompts/templates/custom-templates
+2024-11-01 12:00:46 - Created README.md in leaf directory: src/scripts
+2024-11-01 12:00:46 - Folder structure process completed in src
